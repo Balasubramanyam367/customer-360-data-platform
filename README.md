@@ -5,7 +5,7 @@ This project builds a batch-oriented data platform that consolidates customer
 data from multiple source systems into a single, analytics-ready warehouse.
 
 ## Architecture
-(We will add the diagram in the next step.)
+"C:\Users\balas\OneDrive\Desktop\architecture.png"
 
 ## Tech Stack
 - Apache Airflow
