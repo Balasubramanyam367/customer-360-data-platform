@@ -1,0 +1,1 @@
+touch src/models/customer_360.sql
